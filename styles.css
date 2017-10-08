@@ -1,0 +1,228 @@
+.classheader-content{
+background-image: url("img/header-content.png");
+
+background-size: cover;
+background-position: center center;
+width: 6.822916666666667%;
+height: 5.555555555555555%;
+position: absolute;
+top: 3.888888888888889%;
+left: 45.572916666666664%;
+z-index: 999;
+}
+.class6{
+background-image: url("img/6.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 1.40625%;
+height: 3.7037037037037037%;
+position: absolute;
+top: 63.7037037037037%;
+left: 72.03125%;
+z-index: 998;
+}
+.class5{
+background-image: url("img/5.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 1.3020833333333333%;
+height: 3.7037037037037037%;
+position: absolute;
+top: 63.7037037037037%;
+left: 47.864583333333336%;
+z-index: 997;
+}
+.class4{
+background-image: url("img/4.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 1.5104166666666667%;
+height: 3.7037037037037037%;
+position: absolute;
+top: 63.05555555555556%;
+left: 25.260416666666668%;
+z-index: 996;
+}
+.class3{
+background-image: url("img/3.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 1.3020833333333333%;
+height: 3.7037037037037037%;
+position: absolute;
+top: 33.98148148148148%;
+left: 71.14583333333333%;
+z-index: 995;
+}
+.class2{
+background-image: url("img/2.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 1.3020833333333333%;
+height: 3.7037037037037037%;
+position: absolute;
+top: 35.18518518518518%;
+left: 47.864583333333336%;
+z-index: 994;
+}
+.class1{
+background-image: url("img/1.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 0.6770833333333334%;
+height: 3.7037037037037037%;
+position: absolute;
+top: 35.46296296296296%;
+left: 24.479166666666668%;
+z-index: 993;
+}
+.classhelloo{
+background-image: url("img/helloo.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 7.916666666666667%;
+height: 3.9814814814814814%;
+position: absolute;
+top: 3.9814814814814814%;
+left: 10.052083333333334%;
+z-index: 992;
+}
+.classRectangle_1{
+background-image: url("img/Rectangle_1.png");
+
+background-size: cover;
+background-position: center center;
+width: 30.677083333333332%;
+height: 13.61111111111111%;
+position: absolute;
+top: -0.37037037037037035%;
+left: -0.052083333333333336%;
+z-index: 991;
+}
+.classheader{
+background-image: url("img/header.png");
+
+background-size: cover;
+background-position: center center;
+width: 100.10416666666667%;
+height: 100.46296296296296%;
+position: absolute;
+top: -0.37037037037037035%;
+left: -0.052083333333333336%;
+z-index: 990;
+}
+.classfooter{
+background-image: url("img/footer.png");
+
+background-size: cover;
+background-position: center center;
+width: 100.36458333333333%;
+height: 12.777777777777779%;
+position: absolute;
+top: 87.12962962962963%;
+left: -0.15625%;
+z-index: 989;
+}
+.classcontent6{
+background-image: url("img/content6.png");
+
+background-size: cover;
+background-position: center center;
+width: 11.09375%;
+height: 12.685185185185185%;
+position: absolute;
+top: 61.48148148148148%;
+left: 43.333333333333336%;
+z-index: 988;
+}
+.classcontent5{
+background-image: url("img/content5.png");
+
+background-size: cover;
+background-position: center center;
+width: 11.09375%;
+height: 12.685185185185185%;
+position: absolute;
+top: 61.48148148148148%;
+left: 67.03125%;
+z-index: 987;
+}
+.classcontent2{
+background-image: url("img/content2.png");
+
+background-size: cover;
+background-position: center center;
+width: 11.09375%;
+height: 12.685185185185185%;
+position: absolute;
+top: 32.68518518518518%;
+left: 67.03125%;
+z-index: 986;
+}
+.classcontent3{
+background-image: url("img/content3.png");
+
+background-size: cover;
+background-position: center center;
+width: 11.09375%;
+height: 12.685185185185185%;
+position: absolute;
+top: 32.68518518518518%;
+left: 43.28125%;
+z-index: 985;
+}
+.classcontent4{
+background-image: url("img/content4.png");
+
+background-size: cover;
+background-position: center center;
+width: 11.09375%;
+height: 12.685185185185185%;
+position: absolute;
+top: 61.48148148148148%;
+left: 19.583333333333332%;
+z-index: 984;
+}
+.classcontent1{
+background-image: url("img/content1.png");
+
+background-size: cover;
+background-position: center center;
+width: 11.09375%;
+height: 12.685185185185185%;
+position: absolute;
+top: 32.68518518518518%;
+left: 19.583333333333332%;
+z-index: 983;
+}
+.classcontent{
+background-image: url("img/content.png");
+
+background-size: cover;
+background-position: center center;
+width: 71.40625%;
+height: 57.68518518518518%;
+position: absolute;
+top: 23.055555555555557%;
+left: 14.270833333333334%;
+z-index: 982;
+}
+.classBackground{
+background-image: url("img/Background.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0%;
+left: 0%;
+z-index: 981;
+}

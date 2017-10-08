@@ -1,0 +1,15 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "parse-psd": "node parsePsd",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "psd": "^3.1.0"
+  }
+}
